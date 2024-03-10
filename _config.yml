@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "Bosjie @ IT"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Keeping track of my progress in studying anything IT related."
 name                     : "Tom Bosman"
 description              : "Keeping track of my progress in studying anything IT related."
 url                      : "https://bosjie.github.io/"
@@ -26,7 +26,7 @@ baseurl                  : "/IT"
 repository               : "Bosjie/IT"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark"
+    colorscheme          : # "dark"
   utterances:
-    theme                : "github-dark"
+    theme                : # "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Tom Bosman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Keeping track of my progress in studying anything IT related."
   location         : "Belgium"
-  email            :
+  email            : "tmbsmn@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:tmbsmn@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,13 +121,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/bosjie"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Bosjie/IT"
+      url: "https://github.com/Bosjie"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/tmbsmn/"
 
 # Site Footer
 footer:
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/bosjie"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Bosjie/IT"
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/tmbsmn/"
 
 
 # Reading Files
@@ -290,3 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
