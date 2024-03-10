@@ -3,7 +3,7 @@ title: "Splash Page"
 layout: splash
 permalink: /splash
 header:
-  overlay-image: /assets/images/wallpaper.png
+  overlay_image: /assets/images/wallpaper.png
   overlay_color: "#333"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
