@@ -1,4 +1,5 @@
 ---
+title: "About me"
 layout: single
 classes: wide
 permalink: /about/

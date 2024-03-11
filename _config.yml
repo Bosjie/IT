@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "Bosjie @ IT"
 title_separator          : "-"
-subtitle                 : "Keeping track of my progress in studying anything IT related."
+subtitle                 : ""
 name                     : "Tom Bosman"
 description              : "Keeping track of my progress in studying anything IT related."
 url                      : "https://bosjie.github.io/"
@@ -26,8 +26,8 @@ baseurl                  : "/IT"
 repository               : "Bosjie/IT"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+masthead_title           : " "# overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Tom Bosman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "\"We're all works in progress.\""
   location         : "Belgium"
   email            : "tmbsmn@gmail.com"
   links:
@@ -116,15 +116,15 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Bosjie"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/bosjie"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Bosjie"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/tmbsmn/"
@@ -135,12 +135,12 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/bosjie"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Bosjie/IT"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/bosjie"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
