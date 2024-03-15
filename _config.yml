@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Bosjie @ IT"
 title_separator          : "-"
 subtitle                 : ""
-name                     : "Tom Bosman"
-description              : "Keeping track of my progress in studying anything IT related."
+name                     : "Tom B"
+description              : "Keeping track of my journey into Cyber."
 url                      : "https://bosjie.github.io/"
 baseurl                  : "/IT"
 repository               : "Bosjie/IT"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tom Bosman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Tom B"
+  avatar           : "/assets/images/logo.png"
   bio              : "\"We're all works in progress.\""
-  location         : "Belgium"
+  location         : "Antwerp, Belgium"
   email            : "tmbsmn@gmail.com"
   links:
     - label: "Email"
@@ -124,10 +124,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/bosjie"
+      # url: ""
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/tmbsmn/"
+      # url: ""
 
 # Site Footer
 footer:
@@ -137,10 +137,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Bosjie/IT"
+      url: "https://github.com/Bosjie/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/bosjie"
+      # url: ""
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/tmbsmn/"
+      # url: ""
 
 
 # Reading Files
