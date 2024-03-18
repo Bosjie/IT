@@ -16,7 +16,7 @@ WHY? Because I want to sharpen my IT skills and advance my career to the next le
 I will be diving into topics such as Cyber Security, (Web) Developing and maybe some others.
 The goal is to continuously push myself forward, learning new concepts and/or strengthening existing ones.
 
-In this blog I will post any relevant experiences along the way, serving as a portfolio of my journey.
+In this blog I will post any relevant experiences along the way, serving as a portfolio of my journey (and have fun in the process!).
 
 So to start off, I created this website using some awesome (and free) technologies:
 

@@ -12,7 +12,7 @@ I'm Tom, born and raised in Belgium and computer enthusiast by heart.
 
 I can still remember playing MS-DOS games on a Windows 98 PC as a small kid, hearing the beautiful dial-up modem sounds every day, owning my first personal computer somewhere around age 15, then building my own custom one at age 16.
 
-Along the way learned some HTML and CSS, set up some servers (file, ftp, gaming, website, etc), learned some linux (Arch Linux and Gentoo, because why not), probably created more than 1000 Virtualbox machines by now because that's just fun.
+Along the way learned some HTML, CSS, JS and SQL, set up some servers (file, ftp, gaming, website, etc), learned some linux (Arch Linux and Gentoo, because why not), maybe created about a thousand Virtualbox machines by now because that's just fun.
 
 Got myself into trouble at school a few times because I spammed the whole network with cmd net send messages. Also scanned the schools network and found an Excel sheet with all teacher's diplomas in it (I did report it to the IT admin though). 
 
