@@ -1,5 +1,5 @@
 ---
-title: "Homelab - Proxmox"
+title: "Homelab: Proxmox"
 layout: single
 classes: wide
 author_profile: true
@@ -11,7 +11,7 @@ tags:
 ---
 
 Instead of running a bunch of Virtualbox machines on my local machine, I decided to grab my old laptop (which is collecting dust) and use it as a home lab.
-It's a low-powered one but it'll do the job:
+It's a low-powered one but it'll do the job.
 
 Asus Zenbook UX305CA:
 > Intel® Core™ m3-6Y30 2.20 GHz (2 cores - 4 threads)\
