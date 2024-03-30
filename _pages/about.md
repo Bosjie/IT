@@ -27,7 +27,3 @@ Got myself a microdegree in Networking (CCNA: Introduction to networks) and Web 
 So, I guess we're here now, in the present moment. Well, right now I have a purpose: expand my knowledge and skills and grow my career.
 I have a big interest in Cyber Security and (Web) Developing.
 And while learning, I'll keep track of it on this website :)
-
-I consider myself minimalistic, hence the minimalistic theme.
-
-In the future I might expand the blogging and document my travel/yoga/diving adventures as well, who knows, I'm not sure.
