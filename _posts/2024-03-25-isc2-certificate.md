@@ -8,6 +8,8 @@ categories:
 tags:
   - Certificate
 ---
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/CC-badge.png){: .align-right}
+
 I'm working on getting my first entry level certificate in the cyber security world, the <a href="https://www.isc2.org/Certifications/CC" target="_blank">ISC2: Certified in Cybersecurity (CC)</a> to be precise.
 
 The curriculum provides foundational knowledge and covers the following topics:
